@@ -1,2 +1,2 @@
 # DesignLuvadeOuro
-Design no programa drawio do app luva de ouro
+Design no programa drawio e Figma do app luva de ouro
