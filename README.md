@@ -1,5 +1,5 @@
 # DesignLuvadeOuro
-Design no programa drawio e Figma do app luva de ouro
+Design nos programas drawio e Figma do app luva de ouro
    - Para acessar ao conteúdo basta clicar nas pastas nomeadas, como Design Drawio  ou Figma design.
    - Quando aberta a pasta, para melhor acesso ao link você precisará clicar nesse botão informado na imagem abaixo.
    
